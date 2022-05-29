@@ -17,7 +17,7 @@ The takeaways from this analysis are as follows:
 
 ### Summary
 
-There are currently 33,118 emmployees eligible for retirement, out of a total of 300,000. This means that 11% of Pewlett Hackards workforce could retire soon leading to a 'silver tsunami'. Below is the amount of retirement eligible employees sorted by their titles. The most urgent field that would need to start being replaced after retirement is the engineering field.
+There are currently 33,118 employees eligible for retirement, out of a total of 300,000. This means that 11% of Pewlett Hackards workforce could retire soon leading to a 'silver tsunami'. Below is the amount of retirement eligible employees sorted by their titles. The most urgent field that would need to start being replaced after retirement is the engineering field.
 With the creation of a mentorship program, taking into account the seniority of employees who are not yet eligible for retirement, we are left with 1,549 individuals who would be able to assist in the mentoring of less senior employees as well as new hires to backfill all 33,000 retirees as they leave the workforce.
 
 ![image](https://user-images.githubusercontent.com/102704559/170893735-0decced2-2bc1-4eab-a558-ac5e01754254.png)
